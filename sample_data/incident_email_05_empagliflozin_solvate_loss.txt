@@ -1,0 +1,27 @@
+SUBJECT: [INVESTIGATION ESCALATION] Loss of Solvate Stoichiometry in Empagliflozin API Intermediate (Batch EMP-2026-440)
+FROM: dr.vikram.patel@aivoapharma.com (Process Technology Transfer Manager)
+TO: qa-head@aivoapharma.com, plant-superintendent@aivoapharma.com
+DATE: 2026-10-18 04:10 PM
+
+Dear Quality Assurance,
+
+We have encountered a critical solid-state deviation in Empagliflozin L-Proline cocrystal API batch EMP-2026-440.
+
+Deviation Summary:
+- Deviation No: DEV-2026-0605
+- Product: Empagliflozin L-Proline Cocrystal API
+- Batch: EMP-2026-440
+- Parameter: Molar ratio of Empagliflozin to L-Proline (1:1 stoichiometric specification)
+- Observed Result: Molar ratio 1:0.78 (L-Proline depletion)
+- Process Stage: Vacuum Tray Drying (Oven VTD-03)
+
+Preliminary Findings:
+The vacuum tray dryer temperature controller was accidentally set to 65°C instead of 45°C. Excessive thermal energy caused partial sublimation and loss of the L-proline co-former from the crystal lattice, leading to phase transformation and collapse of powder flow characteristics.
+
+Containment:
+- Batch EMP-2026-440 (520 kg) placed on QA Hold.
+- Temperature controller interlocked with dual supervisory password access.
+- Please open 5 Whys RCA in the system.
+
+Dr. Vikram Patel
+Process Technology Transfer Manager | AIVOA Pharmaceuticals

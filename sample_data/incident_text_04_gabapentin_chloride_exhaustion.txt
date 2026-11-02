@@ -1,0 +1,18 @@
+QUALITY DEVIATION RECORD: DEV-2026-0504
+Product Name: Gabapentin USP API
+Batch Number: GBP-2026-302
+Manufacturing Stage: Stage 3: Ion-Exchange Demineralization & Desalting
+Equipment ID: Resin Column IXC-03 (Dowex Monosphere Resin)
+Date of Occurrence: 2026-10-18 | Date of Discovery: 2026-10-19
+Reporting Department: QC Wet Chemistry Analytical Lab
+
+OBSERVED DEVIATION:
+Inorganic chloride content in finished Gabapentin API tested at 0.045% (450 ppm), severely exceeding the USP compendial limit of NMT 0.010% (100 ppm). HPLC purity was 99.6%.
+
+INVESTIGATION DETAILS:
+Gabapentin free amino acid is isolated by passing gabapentin hydrochloride through a strong basic anion exchange resin column (IXC-03). Conductivity monitoring during elution failed because the conductivity probe had foul coating and recorded 12 μS/cm while actual conductivity exceeded 85 μS/cm. The resin had reached chloride breakthrough exhaustion 2 hours prior to collection cutoff.
+
+IMMEDIATE CONTAINMENT:
+1. Batch GBP-2026-302 (1,500 kg) locked in ERP with status Q-RETEST.
+2. Resin Column IXC-03 taken out of service for full caustic regeneration.
+3. Conductivity sensor maintenance and calibration frequency shortened from monthly to weekly.

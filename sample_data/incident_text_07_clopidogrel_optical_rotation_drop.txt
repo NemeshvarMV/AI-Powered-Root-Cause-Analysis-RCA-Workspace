@@ -1,0 +1,18 @@
+DEVIATION INVESTIGATION LOG: DEV-2026-0507
+Product Name: Clopidogrel Bisulfate Form I API
+Batch Number: CLOP-2026-815
+Manufacturing Stage: Stage 3: Chiral Resolution with 10-Camphorsulfonic Acid
+Equipment ID: Chiral Resolution Reactor CR-01 / Basket Centrifuge BCF-01
+Date of Occurrence: 2026-10-15 | Date of Discovery: 2026-10-16
+Reporting Department: QC Optical & Physical Analysis Lab
+
+OBSERVED DEVIATION:
+Specific optical rotation [α]D20 measured at +51.8°, failing the specification of +55.0° to +58.0°. Chiral HPLC confirmed presence of unwanted (R)-enantiomer at 3.9% (specification NMT 1.0%).
+
+FORENSIC AUDIT:
+Resolution of racemic clopidogrel requires precise fractional crystallization of the (S)-camphorsulfonate diastereomeric salt in acetone. A cooling temperature overshoot occurred (cooled to -2°C instead of +10°C) because cooling jacket brine valve CV-101 jammed open. The lower temperature caused co-crystallization and precipitation of the more soluble (R)-enantiomer camphorsulfonate salt.
+
+IMMEDIATE CONTAINMENT:
+1. Batch CLOP-2026-815 (950 kg) placed on QA hold in Warehouse Bay C.
+2. Temperature control valve CV-101 replaced and re-tuned with dual PID loop feedback.
+3. Rework resolution protocol drafted to re-dissolve and re-crystallize salt at validated 10°C.

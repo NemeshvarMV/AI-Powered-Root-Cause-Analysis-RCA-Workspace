@@ -1,0 +1,22 @@
+INCIDENT REPORT: DEV-2026-0841
+Product: Atorvastatin Calcium Trihydrate API
+Batch Number: ATC-2026-B09
+Manufacturing Stage: Stage 4: Crystallization, Filtration & Vacuum Drying
+Equipment ID: Reactor CRYS-RX-04 / ANFD-02
+Date of Incident: 2026-10-22
+Date of Discovery: 2026-10-23
+Reporting Unit: QC Analytical Testing Laboratory
+
+OBSERVED DEVIATION:
+During final release testing of Atorvastatin Calcium API batch ATC-2026-B09, HPLC analysis detected Related Substance Impurity D at 0.28% (w/w). 
+Specification: NMT 0.15% (w/w). 
+Actual Result: 0.28% (w/w) - Out of Specification (OOS).
+Assay was 99.4%, Water content was 4.1% (spec 3.5%-5.5%).
+
+CHRONOLOGY & PROCESS OBSERVATIONS:
+Investigation into agitated filter-dryer ANFD-02 revealed that during the vacuum drying cycle at 14:15 UTC, the product temperature spiked from 40°C setpoint to an unexpected peak of 58°C, remaining above 52°C for approximately 45 minutes. Control valve V-104 on the hot water heating jacket remained stuck open despite the PLC issuing a close command when temperature reached 40°C. Operator manually bypassed the valve to cooling water at 15:00 UTC.
+
+IMMEDIATE CONTAINMENT:
+1. Batch ATC-2026-B09 placed under QA Quarantine Hold in Warehouse 3 (all 12 drums tagged with physical yellow QA Hold banners).
+2. ANFD-02 dryer locked out in SCADA; no further batches permitted.
+3. Raw material ethanol lot RAW-ETH-4029 quarantined pending solvent re-assay.

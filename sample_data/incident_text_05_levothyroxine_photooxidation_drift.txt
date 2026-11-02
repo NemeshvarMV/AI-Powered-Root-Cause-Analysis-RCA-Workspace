@@ -1,0 +1,18 @@
+FORENSIC QUALITY REPORT: DEV-2026-0505
+Product Name: Levothyroxine Sodium API (USP)
+Batch Number: LTH-2026-090
+Manufacturing Stage: Stage 4: Micro-dispersion & Final Crystallization
+Equipment ID: Glass-Lined Reactor GLR-01 / Transfer Line TL-04
+Date of Occurrence: 2026-10-17 | Date of Discovery: 2026-10-18
+Reporting Department: QC Specialized Micro-Assay Lab
+
+OBSERVED DEVIATION:
+Potency assay of finished Levothyroxine Sodium tested at 93.8% (w/w) on anhydrous basis, failing the tight USP monograph specification of 97.0% - 102.0%. High levels of deiodinated and keto-acid photo-degradation products observed.
+
+PROCESS OBSERVATIONS:
+Levothyroxine is exceptionally light-sensitive. Temporary fluoropolymer clear PFA transfer tubing (TL-04) had been installed during maintenance bypass rather than amber UV-opaque stainless steel braided lines. Slurry transfer took 6 hours under 800 lux fluorescent cleanroom lighting without amber UV light shielding.
+
+IMMEDIATE CONTAINMENT:
+1. Batch LTH-2026-090 (24 kg high-potency bulk) quarantined in dedicated light-tight freezer.
+2. Temporary clear tubing TL-04 immediately removed and scrapped.
+3. Cleanroom change control protocol audited for temporary equipment replacements.

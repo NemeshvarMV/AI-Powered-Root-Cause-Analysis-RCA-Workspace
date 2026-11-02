@@ -1,0 +1,18 @@
+DEVIATION REPORT & FORENSIC NOTES: DEV-2026-0501
+Product Name: Omeprazole API (USP/EP)
+Batch Number: OMP-2026-419
+Manufacturing Stage: Stage 4: Centrifuge Washing & Fluid Bed Drying
+Equipment ID: Heinkel Centrifuge HNK-02 / Fluid Bed Dryer FBD-01
+Date of Occurrence: 2026-10-21 | Date of Discovery: 2026-10-22
+Reporting Department: Quality Control Analytical Laboratory
+
+OBSERVED DEVIATION:
+Finished API release testing by HPLC detected Related Substance Impurity B (Omeprazole Sulfone) at 0.34% (w/w), exceeding the regulatory specification limit of NMT 0.15% (w/w). Assay was 99.1% and residue on ignition was 0.05%.
+
+PROCESS & SHIFT OBSERVATIONS:
+Omeprazole is highly acid-labile. During the centrifugal isolation stage on HNK-02, a nitrogen blanket pressure loss occurred for 35 minutes when the main nitrogen header valve jammed during shift changeover. Ambient cleanroom air and moisture entered the centrifuge basket, lowering the localized pH of the wet cake surface and accelerating oxidative degradation to omeprazole sulfone.
+
+IMMEDIATE CONTAINMENT:
+1. Batch OMP-2026-419 (1,100 kg) quarantined in double polyethylene lined fiber drums.
+2. Centrifuge HNK-02 nitrogen supply pressure sensor interlocked to prevent operation if pressure < 0.2 bar.
+3. Air exposure hold-time validation study requested for all benzimidazole API lines.

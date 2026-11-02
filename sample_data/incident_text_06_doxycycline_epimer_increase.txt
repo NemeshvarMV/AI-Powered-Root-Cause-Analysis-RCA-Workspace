@@ -1,0 +1,18 @@
+QUALITY INCIDENT SUMMARY: DEV-2026-0506
+Product Name: Doxycycline Hyclate API (USP)
+Batch Number: DOX-2026-224
+Manufacturing Stage: Stage 3: Salt Formation & Extended Crystallization Hold
+Equipment ID: Holding Crystallizer T-302 / Filter ANFD-01
+Date of Occurrence: 2026-10-16 | Date of Discovery: 2026-10-17
+Reporting Department: QC HPLC Antibiotics Unit
+
+OBSERVED DEVIATION:
+Related Substance 4-Epidoxycycline tested at 1.84% (w/w), exceeding the USP monograph specification limit of NMT 1.20% (w/w). Total other impurities remained below 0.5%.
+
+LABORATORY INVESTIGATION:
+Due to an unexpected plant boiler steam outage on Friday night, crystallization slurry in T-302 remained held at 28°C for 54 hours instead of the validated maximum slurry hold time of 12 hours prior to filtration. Extended exposure to acidic aqueous ethanol at elevated ambient temperature drove reversible C-4 epimerization of doxycycline into 4-epidoxycycline.
+
+IMMEDIATE CONTAINMENT:
+1. Batch DOX-2026-224 (800 kg) quarantined in Warehouse 1.
+2. Slurry hold-time limits added as mandatory critical process parameter in electronic batch record.
+3. Engineering review of redundant backup steam supply for crystallization hall.

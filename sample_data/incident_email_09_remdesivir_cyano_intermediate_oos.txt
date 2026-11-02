@@ -1,0 +1,28 @@
+SUBJECT: [QA ESCALATION] Residual Cyano-Adduct Exceeding Limit in Remdesivir Intermediate Batch RMD-2026-301
+FROM: monica.alvarez@aivoapharma.com (Synthetic Organic Quality Specialist)
+TO: qa-head@aivoapharma.com, chemical-ops@aivoapharma.com
+DATE: 2026-10-14 03:00 PM
+
+Dear Quality Assurance,
+
+Analytical testing on final Remdesivir nucleotide prodrug intermediate batch RMD-2026-301 has detected elevated cyano-adduct impurity.
+
+Summary:
+- Deviation ID: DEV-2026-0609
+- Product: Remdesivir API Intermediate (GS-441524 Intermediate)
+- Batch: RMD-2026-301
+- Parameter: Cyano-lactone Byproduct
+- Specification: NMT 0.20% (w/w)
+- Lab Result: 0.46% (w/w) [OOS]
+- Process Step: C-Glycosylation & Cyano-Coupling
+
+Mechanism:
+During trimethylsilyl cyanide (TMSCN) addition in dichloromethane at -78°C, the liquid nitrogen cryogenic cooling jacket supply valve malfunctioned, allowing internal vessel temperature to spike to -45°C. At this elevated temperature, competitive bis-cyano addition occurred.
+
+Containment:
+- Intermediate batch RMD-2026-301 (320 kg) quarantined.
+- Cryogenic valve solenoid replaced.
+- RCA workflow initiated.
+
+Monica Alvarez
+Quality Control Analytical Chemist

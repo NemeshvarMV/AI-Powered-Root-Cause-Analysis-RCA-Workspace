@@ -31,8 +31,6 @@ Comprehensive architectural, workflow, and engineering documentation is availabl
 | **[Setup & Deployment Guide](docs/SETUP_AND_DEPLOYMENT.md)** | Prerequisites, local installation, environment variables, production build, Nginx reverse proxy, and troubleshooting. |
 | **[Developer Guide](docs/DEVELOPMENT_GUIDE.md)** | Repository structure, coding conventions, adding endpoints, extending LangGraph nodes, and safe modifications. |
 | **[Known Issues & Roadmap](docs/KNOWN_ISSUES.md)** | Feature status matrix (verified vs. unverified), current limitations, and engineering priority roadmap. |
-| **[Video 1: Demo Walkthrough Script](docs/DEMO_VIDEO_SCRIPT.md)** | Spoken script and on-screen action guide for the 5–8 minute product demonstration video. |
-| **[Video 2: Code Walkthrough Script](docs/CODE_WALKTHROUGH_SCRIPT.md)** | Spoken script and technical screen guide for the 5–10 minute implementation walkthrough video. |
 
 ---
 
@@ -49,8 +47,7 @@ Comprehensive architectural, workflow, and engineering documentation is availabl
 10. [Sample Incident & Demonstration Guide](#sample-incident--demonstration-guide)
 11. [REST API Contract Summary](#rest-api-contract-summary)
 12. [Human Oversight & Safeguards](#human-oversight--safeguards)
-13. [Demonstration Video Scripts](#demonstration-video-scripts)
-14. [Troubleshooting & Known Limitations](#troubleshooting--known-limitations)
+13. [Troubleshooting & Known Limitations](#troubleshooting--known-limitations)
 
 ---
 
@@ -378,21 +375,10 @@ In accordance with ICH Q9(R1) and regulatory quality systems:
 
 ---
 
-## Demonstration Video Scripts
-
-Two fully scripted recording guides are provided in the repository:
-1. **[Product Demonstration Script (5–8 minutes)](docs/DEMO_VIDEO_SCRIPT.md):** Focuses on user experience, multi-source intake, real-time extraction, automatic form population, 5 Whys/Fishbone, evidence gap tracking, CAPA review, and database persistence.
-2. **[Technical Code Explanation Script (5–10 minutes)](docs/CODE_WALKTHROUGH_SCRIPT.md):** Detailed walkthrough of FastAPI endpoints, LangGraph state machine, Groq integration, Redux Toolkit slices, and database models.
-
----
-
 ## Troubleshooting & Known Limitations
 
 - **PDF Text Extraction:** Scanned image PDFs without embedded text layers require an OCR pre-processor. The application clearly reports `OCR required` rather than fabricating output.
 - **PostgreSQL Port:** Default port is `5432`. If your PostgreSQL instance runs on a different port, update `DATABASE_URL` in `.env`.
 - **CORS Configuration:** If accessing the frontend from a non-standard port or hostname, add it to `CORS_ORIGINS` in `.env`.
 
----
 
-## Submission & Privacy Notice
-*This software is part of the AIVOA.AI Candidate Assignment. In accordance with assignment instructions, do not publish this project, source code, demo recordings, or sample materials to any public repository.*

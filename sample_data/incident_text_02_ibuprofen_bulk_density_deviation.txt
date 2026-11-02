@@ -1,0 +1,18 @@
+LAB INVESTIGATION & SHIFT LOG: DEV-2026-0502
+Product Name: Ibuprofen Direct Compression (DC) Grade API
+Batch Number: IBU-2026-788
+Manufacturing Stage: Stage 3: Reactive Crystallization & Agglomeration
+Equipment ID: Crystallizer CRYS-04 / High Shear Wet Mill WML-01
+Date of Occurrence: 2026-10-20 | Date of Discovery: 2026-10-21
+Reporting Department: Physical Quality Characterization Lab
+
+OBSERVED DEVIATION:
+Untapped bulk density tested at 0.31 g/mL, failing the Direct Compression validated specification range of 0.40 g/mL - 0.48 g/mL. Tapped density was 0.44 g/mL (Carr's Index = 29.5%, indicating poor powder flowability).
+
+PROCESS & LAB NOTES:
+During the cooling crystallization cycle, wet mill WML-01 speed was operated at 3,200 RPM instead of the recipe-defined 1,800 RPM due to an incorrect manual setpoint entry by a trainee operator. The excessive shear force fractured spherical crystal agglomerates into fine needle fragments with high aspect ratios, causing poor bulk packing.
+
+IMMEDIATE CONTAINMENT:
+1. Batch IBU-2026-788 (4,200 kg) segregated in Warehouse Bulk Bay 7 under yellow QA hold tags.
+2. Supervisory authorization lock placed on wet mill RPM parameters in SCADA recipe.
+3. Training matrix review initiated for all direct compression crystallization operators.

@@ -1,0 +1,18 @@
+INCIDENT INVESTIGATION REPORT: DEV-2026-0503
+Product Name: Amoxicillin Trihydrate API (Enzymatic Route)
+Batch Number: AMX-2026-610
+Manufacturing Stage: Stage 2: Enzymatic Coupling & pH Crystallization
+Equipment ID: Bioreactor BIO-02 / Penicillin Acylase Enzyme Bed
+Date of Occurrence: 2026-10-19 | Date of Discovery: 2026-10-20
+Reporting Department: Biochemical Manufacturing Operations
+
+OBSERVED DEVIATION:
+Chemical conversion yield collapsed to 68.4% (w/w) against the validated batch minimum of NLT 92.0% (w/w). Residual unreacted 6-APA intermediate spiked to 4.8% (spec NMT 0.5%).
+
+CHRONOLOGY & INVESTIGATION:
+During enzymatic coupling of 6-APA with D-hydroxyphenylglycine methyl ester, bioreactor BIO-02 chilling jacket circulation pump tripped at 02:15 UTC. Slurry temperature climbed to 29.5°C (validated control limit is 18°C - 20°C). Immobilized Penicillin G Acylase enzyme underwent thermal denaturation, permanently losing catalytic coupling activity.
+
+IMMEDIATE CONTAINMENT:
+1. Reaction mass quarantined in tank TK-BIO-02 under refrigeration.
+2. Immobilized enzyme charge discarded; biocatalyst bed purged.
+3. Secondary coolant backup pump auto-switchover interlock commissioned on bioreactor BIO-02.

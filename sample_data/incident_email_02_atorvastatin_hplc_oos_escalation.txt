@@ -1,0 +1,28 @@
+SUBJECT: [QA ESCALATION] Out-of-Specification Notification: Elevated Impurity H in Atorvastatin Calcium Batch ATC-2026-C14
+FROM: dr.sarah.thornton@aivoapharma.com (Head of Quality Assurance)
+TO: plant-manager@aivoapharma.com, ops-director@aivoapharma.com
+DATE: 2026-10-21 11:30 AM
+
+Team,
+
+Be advised that QC release testing for commercial Atorvastatin Calcium Trihydrate API Batch ATC-2026-C14 has produced a confirmed Out-of-Specification (OOS) result.
+
+Specific Details:
+- Deviation ID: DEV-2026-0602
+- Product: Atorvastatin Calcium Trihydrate API
+- Batch: ATC-2026-C14
+- Parameter: Related Substance Impurity H (Pyrrole keto-derivative)
+- Specification Limit: NMT 0.15% (w/w)
+- Observed Lab Result: 0.31% (w/w) [Confirmed on duplicate re-injection]
+- Manufacturing Stage: Paal-Knorr Condensation & Ring Closure
+
+Lab & Engineering Findings:
+Phase 1 laboratory investigation completed: HPLC column suitability verified, mobile phase prepared fresh, dilution integrity confirmed. Plant investigation into reactor RX-02 revealed condensation reaction temperature was maintained at 74°C for 14 hours instead of validated 65°C ± 2°C due to steam thermal sensor offset.
+
+Immediate Containment:
+- All 18 fiber drums of batch ATC-2026-C14 placed under QA Quarantine hold in Warehouse 2.
+- Temperature transmitter TT-102 tagged out for calibration overhaul.
+- Initiate RCA (5 Whys and Fishbone) to determine root cause and corrective actions.
+
+Dr. Sarah Thornton
+Head of Quality Assurance | AIVOA Pharmaceuticals

@@ -1,0 +1,28 @@
+SUBJECT: [DEVIATION NOTICE] Humidity Ingress & Degradation of Pantoprazole Sodium API Bulk Intermediate (Batch PAN-2026-110)
+FROM: kevin.kowalski@aivoapharma.com (Packaging & Warehouse Operations Lead)
+TO: qa-escalations@aivoapharma.com, production-ops@aivoapharma.com
+DATE: 2026-10-19 09:20 AM
+
+Quality Team,
+
+During warehouse inspection of Pantoprazole Sodium Sesquihydrate API Batch PAN-2026-110, physical seal integrity compromise was detected.
+
+Incident Parameters:
+- Deviation: DEV-2026-0604
+- Product: Pantoprazole Sodium API
+- Batch: PAN-2026-110
+- Packaging: 25 kg Double Poly-Lined HDPE Drums with Silica Desiccant Pouches
+- Problem: Relative humidity indicators inside inner liner registered 60% RH (specification NMT 20% RH)
+- Lab Impact: Surface discoloration (yellowing) and moisture content rose to 9.2% (spec 6.5% - 8.5%)
+
+Observations:
+Induction heat sealer HS-02 experienced temperature sensor failure, causing incomplete hermetic sealing on inner foil barrier bags across 8 of 12 drums. Cleanroom humidity in staging airlock rose to 65% during torrential rainfall.
+
+Containment Actions:
+- All 12 drums quarantined under ERP lock Q-INSP.
+- Re-drying and repackaging assessment initiated.
+- Sealer HS-02 locked out pending heat element replacement.
+
+Regards,
+Kevin Kowalski
+Warehouse & Logistics Operations Lead

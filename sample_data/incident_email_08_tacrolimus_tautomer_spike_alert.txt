@@ -1,0 +1,28 @@
+SUBJECT: [CRITICAL BIOPROCESS ALERT] Tautomer II Spike on Immunosuppressant Tacrolimus API (Batch TAC-2026-019)
+FROM: dr.hans.becker@aivoapharma.com (Biotechnology Fermentation Lead)
+TO: qa-compliance@aivoapharma.com, fermentation-ops@aivoapharma.com
+DATE: 2026-10-15 10:45 AM
+
+Quality Operations,
+
+HPLC release analysis for Tacrolimus Monohydrate API Batch TAC-2026-019 has reported an out-of-specification tautomer impurity profile.
+
+Key Facts:
+- Deviation: DEV-2026-0608
+- Product: Tacrolimus Monohydrate API (USP/EP)
+- Batch: TAC-2026-019
+- Test: Tacrolimus Tautomer II Ratio
+- Limit: NMT 1.5% (Relative Area)
+- Observed Result: 2.85% [OOS]
+- Process Stage: Stage 5: Resin Adsorption & Solvent Stripping
+
+Investigation Notes:
+Tacrolimus exists as interconverting conformational tautomers in solution. Stripping column evaporator T-401 vacuum level dropped from -0.098 MPa to -0.075 MPa, requiring heating bath temperature to rise to 52°C (limit <= 35°C) to distill off ethyl acetate, accelerating tautomeric equilibrium shift towards Tautomer II.
+
+Containment:
+- 18 kg of concentrated Tacrolimus eluate placed in -20°C dark storage.
+- Vacuum booster pump overhaul initiated.
+- Full 5 Whys and CAPA required before resuming column processing.
+
+Dr. Hans Becker
+Fermentation & Bioseparations Director

@@ -1,0 +1,27 @@
+SUBJECT: [CRITICAL ALERT] Spontaneous Nucleation of Undesired Polymorph Form II in Ritonavir API Holding Vessel (Batch RIT-2026-150)
+FROM: dr.arthur.pendleton@aivoapharma.com (Principal Solid State Scientist)
+TO: qa-executive@aivoapharma.com, production-head@aivoapharma.com
+DATE: 2026-10-13 08:30 AM
+
+URGENT QUALITY ALERT:
+
+This is a critical solid-state escalation regarding Ritonavir API Batch RIT-2026-150.
+
+Incident Summary:
+- Deviation Reference: DEV-2026-0610
+- Product: Ritonavir API (USP)
+- Batch: RIT-2026-150
+- Problem: Raman spectroscopy & XRPD detected crystalline Form II nucleation in supersaturated solution tank TK-102
+- Specification: 100% Polymorphic Form I (Form II is thermodynamic insoluble form)
+- Impact: Form II has significantly lower aqueous bioavailability and is unacceptable for drug product formulation
+
+Process Chronology:
+The supersaturated solution in ethyl acetate was held in transfer tank TK-102 for 18 hours at 22°C without continuous mild heating. Un-passivated surface scratching on the stainless steel agitator blade provided heterogeneous nucleation sites that triggered spontaneous crystallization of the stable, insoluble Form II crystal habit.
+
+Immediate Containment:
+1. Tank TK-102 quarantined; all transfers halted.
+2. Complete decontamination and hot solvent dissolution protocol required.
+3. Initiate thorough 5 Whys and Fishbone investigation in AIVOA.AI workspace.
+
+Dr. Arthur Pendleton
+Principal Solid-State Scientist | AIVOA Pharmaceuticals

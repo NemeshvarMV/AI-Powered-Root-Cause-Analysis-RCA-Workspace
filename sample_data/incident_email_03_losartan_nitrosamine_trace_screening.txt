@@ -1,0 +1,27 @@
+SUBJECT: [CRITICAL REGULATORY ALERT] Trace Nitrosamine Screening Approaching Action Limit in Losartan Potassium API Batch LSP-2026-055
+FROM: elena.gomez@aivoapharma.com (Director of Regulatory Compliance)
+TO: qa-operations@aivoapharma.com, solvent-recovery@aivoapharma.com
+DATE: 2026-10-20 02:45 PM
+
+Dear Quality Investigation Team,
+
+Regulatory Compliance and QC have completed LC-MS/MS nitrosamine screening on Losartan Potassium API Batch LSP-2026-055.
+
+Deviation Details:
+- Deviation Reference: DEV-2026-0603
+- Product: Losartan Potassium API
+- Batch: LSP-2026-055
+- Impurity: N-Nitroso-N-methyl-4-aminobutyric acid (NMBA)
+- Observed Result: 0.88 ppm [FDA Interim Limit: NMT 0.96 ppm, Internal Action Limit: 0.50 ppm]
+- Manufacturing Stage: Tetrazole Ring Formation (Sodium Azide / Tributyltin chloride)
+
+Root Cause Indicators:
+The recovery distillation column REC-COL-01 was used to recycle Dimethylformamide (DMF) solvent. Recycled DMF contained trace dimethylamine precursors that reacted with residual nitrous acid formed during tetrazole acidic quenching.
+
+Required Actions:
+1. Place Batch LSP-2026-055 on QA Hold; do not release for commercial distribution.
+2. Immediate quarantine on recovered solvent tank TK-DMF-REC.
+3. Run comprehensive RCA to identify preventive controls and solvent recovery validation limits.
+
+Elena Gomez, Ph.D.
+Director of Regulatory Compliance & Quality Risk Management

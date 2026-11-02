@@ -1,0 +1,28 @@
+SUBJECT: [QC NOTICE] Chiral Purity Failure in Sertraline Hydrochloride API Synthesis (Batch SER-2026-880)
+FROM: claire.fontaine@aivoapharma.com (Senior QC Chromatography Chemist)
+TO: qa-investigations@aivoapharma.com, synthesis-manager@aivoapharma.com
+DATE: 2026-10-17 01:15 PM
+
+Attention Quality Operations,
+
+Chiral HPLC screening of Sertraline Hydrochloride API Batch SER-2026-880 has failed enantiomeric purity criteria.
+
+Deviation Specifics:
+- Reference ID: DEV-2026-0606
+- Product: Sertraline Hydrochloride API (USP)
+- Batch: SER-2026-880
+- Test Parameter: Chiral Enantiomeric Purity ((1S,4S)-cis-enantiomer)
+- Monograph Specification: NLT 99.0%
+- Observed Result: 96.2% [(1R,4R)-enantiomer present at 3.8%]
+- Process Stage: Stage 3: D-Mandelic Acid Resolution Salt Isolation
+
+Forensic Analysis:
+Resolution crystallization reactor R-301 agitator stopped for 40 minutes due to drive belt slippage during critical cooling crystallization. The lack of agitation allowed un-resolved racemic free base to oil out and contaminate the crystalline (1S,4S)-sertraline mandelate salt cake.
+
+Immediate Containment:
+1. Batch SER-2026-880 (750 kg) quarantined in centrifuge receiver.
+2. Agitator motor drive belts replaced on reactor R-301 with optical tachometer failure alarm.
+3. Initiate formal RCA and CAPA workflow.
+
+Claire Fontaine
+Senior QC Chromatography Chemist

@@ -1,0 +1,18 @@
+PROCESS QUALITY DEVIATION: DEV-2026-0509
+Product Name: Propofol Crude API Liquid Oil Substance
+Batch Number: PRF-2026-112
+Manufacturing Stage: Stage 3: High-Pressure Emulsion Microfluidization
+Equipment ID: Microfluidizer Homogenizer MF-110T / Malvern Zetasizer
+Date of Occurrence: 2026-10-13 | Date of Discovery: 2026-10-14
+Reporting Department: Colloidal & Emulsion Testing Unit
+
+OBSERVED DEVIATION:
+Mean oil droplet diameter measured at 0.74 μm (740 nm), failing the injectable API intermediate specification of NMT 0.45 μm (450 nm). Distribution showed tailing of large globule fraction > 5 μm (PFAT5 = 0.082%, spec <= 0.050%).
+
+PROCESS OBSERVATIONS:
+Microfluidizer operating pressure fluctuated erratically between 800 bar and 1,200 bar (recipe requires continuous 1,400 bar ± 50 bar). Teardown of the ceramic interaction chamber discovered severe cavitation erosion and tungsten carbide valve seat chipping, preventing laminar shear droplet disruption.
+
+IMMEDIATE CONTAINMENT:
+1. Bulk oil batch PRF-2026-112 (450 L) placed on QA hold in stainless steel totes.
+2. Microfluidizer ceramic chamber replaced with diamond interaction chamber.
+3. Pre-run pressure stability check instituted prior to future emulsion processing.

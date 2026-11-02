@@ -1,0 +1,35 @@
+SUBJECT: [URGENT QA ESCALATION] Out-of-Specification Impurity D on Atorvastatin API Batch ATC-2026-B09
+
+FROM: rachel.patel@aivoapharma.com (QC Senior Analyst)
+TO: qa-escalations@aivoapharma.com, mark.vance@aivoapharma.com
+DATE: 2026-10-23 09:45 AM
+
+Dear Quality Operations and Investigation Team,
+
+Please be advised that final QC release testing for Atorvastatin Calcium Trihydrate API, Batch Number ATC-2026-B09, resulted in an Out-of-Specification (OOS) result.
+
+Specific Details:
+- Deviation Reference: DEV-2026-0841
+- Product: Atorvastatin Calcium Trihydrate API
+- Batch: ATC-2026-B09
+- Process Stage: Crystallization & Agitated Filter Drying
+- Equipment: Agitated Nutsche Filter-Dryer ANFD-02
+- Test Parameter: Chromatographic Purity (Impurity D)
+- Specification Limit: NMT 0.15% (w/w)
+- Observed Result: 0.28% (w/w)
+- Date of Occurrence: 2026-10-22
+
+Initial Laboratory Review:
+Phase 1 laboratory investigation completed. Standard and sample preparation verified, HPLC column system suitability passed, injection precision RSD < 1.0%. No analytical error identified.
+
+Production Notes:
+During vacuum drying on ANFD-02, a thermal spike to 58°C was recorded on the data logger (target drying temperature is 40°C ± 2°C). Heating jacket control valve V-104 failed to throttle closed. Batch remained over 50°C for ~45 minutes before operator manual override.
+
+Immediate Containment:
+Batch ATC-2026-B09 has been quarantined in SAP ERP. Physical warning notices placed on all 12 drums in Warehouse Bay D-14. Dryer ANFD-02 is locked out.
+
+Please initiate an AI-assisted Root Cause Analysis investigation (5 Whys and Fishbone) to determine assignable root causes, missing evidence requirements, and recommended CAPA.
+
+Regards,
+Rachel Patel
+Senior Quality Control Chemist | AIVOA Pharmaceuticals

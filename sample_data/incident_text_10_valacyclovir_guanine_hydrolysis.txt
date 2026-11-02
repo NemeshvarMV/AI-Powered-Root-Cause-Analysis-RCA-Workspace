@@ -1,0 +1,18 @@
+LAB DEVIATION NOTICE: DEV-2026-0510
+Product Name: Valacyclovir Hydrochloride API
+Batch Number: VAL-2026-550
+Manufacturing Stage: Stage 4: Hydrolytic Deprotection & Acid Precipitation
+Equipment ID: Glass-Lined Hydrolysis Vessel GLR-03 / Nutsche Filter
+Date of Occurrence: 2026-10-12 | Date of Discovery: 2026-10-13
+Reporting Department: QC Chromatographic Release Section
+
+OBSERVED DEVIATION:
+Finished API release chromatography identified Related Substance Guanine at 0.38% (w/w), exceeding the USP monograph specification limit of NMT 0.15% (w/w). Valacyclovir assay was 98.2%.
+
+CHRONOLOGY & INVESTIGATION:
+During deprotection of CBZ-valacyclovir in vessel GLR-03, concentrated 37% hydrochloric acid addition was executed over 15 minutes instead of the validated 90-minute metered dosing at 15°C. Rapid exothermic acid addition caused localized pH drop below 0.5 and internal temperature spike to 38°C, cleaving the valyl ester linkage and precipitating insoluble free guanine base.
+
+IMMEDIATE CONTAINMENT:
+1. Batch VAL-2026-550 (800 kg) quarantined in Warehouse 3.
+2. Automated peristaltic metering pump locked to prevent manual override of acid feed rate.
+3. Re-crystallization and hot filtration feasibility protocol submitted to QA.

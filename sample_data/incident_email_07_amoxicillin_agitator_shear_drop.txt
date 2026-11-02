@@ -1,0 +1,23 @@
+Dear Quality Assurance Team,
+
+This message serves as formal deviation notice for Amoxicillin Trihydrate API Batch AMX-2026-720.
+
+Deviation Details:
+- Deviation Number: DEV-2026-0607
+- Product: Amoxicillin Trihydrate Compacted API
+- Batch: AMX-2026-720
+- Parameter: Bulk Viscosity & Filtration Flow Rate
+- Observed Result: Slurry filtration duration exceeded 14 hours (validated cycle time: 4 hours)
+- Impact: Increased moisture retention, residual solvent elevation
+
+Cause Indicators:
+The variable frequency drive (VFD) controlling the main draft-tube agitator in crystallizer CRYS-03 drifted down from 120 RPM to 45 RPM during the acid crystallization sequence. The reduced shear field resulted in agglomerated gelatinous crystal habits instead of free-filtering prism crystals.
+
+Actions Taken:
+- Slurry cake quarantined in Nutsche filter NF-02.
+- Electrical technician repaired VFD analog 4-20mA control signal cable.
+- Please initialize RCA and evidence tracker.
+
+Regards,
+Rajesh Sharma
+Active Pharmaceutical Ingredient Manufacturing Superintendent
